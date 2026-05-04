@@ -32,3 +32,32 @@ class: ERP Backend Developer
 main_stack: C# | .NET | SQL Server
 specialty: Business rules, backend architecture and ERP systems
 current_level: Learning, building and evolving every day
+```
+---
+
+## 🧰 INVENTORY
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,sqlserver,git,github,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Main%20Weapon-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-Core%20Engine-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database%20Dungeon-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 🧩 SKILL TREE
+
+```diff
++ ERP Systems
++ Backend Development
++ Business Rules
++ SQL Optimization
++ Entity Framework
++ Clean Architecture
++ DDD
++ System Integrations
++ Performance Improvements
