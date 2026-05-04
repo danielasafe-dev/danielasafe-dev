@@ -18,32 +18,33 @@
 
 ---
 
+
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor focado em sistemas **ERP**, trabalhando com backend, regras de negócio complexas e evolução de sistemas corporativos.
-
-Tenho experiência com:
-- Sistemas financeiros e operacionais
-- Regras fiscais
-- Integrações e automações
-- Performance em banco de dados
+<p align="center">
+  💻 Desenvolvedor focado em <b>ERP</b> <br/>
+  ⚙️ Backend com <b>.NET</b>, regras de negócio e sistemas corporativos <br/>
+  🧠 Foco em arquitetura limpa, performance e escalabilidade
+</p>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Stack principal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DDD-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github" />
 </p>
 
+---
+
+## 🧩 Especialidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ERP-Sistemas%20Corporativos-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-.NET-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arquitetura-DDD-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-green?style=for-the-badge" />
+</p>
 ---
 
 ## 📌 Perfil em destaque
