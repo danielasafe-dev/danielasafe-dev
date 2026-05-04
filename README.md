@@ -69,13 +69,3 @@ Atuação no desenvolvimento de sistemas ERP com:
 - Manutenção e evolução de sistemas corporativos  
 
 *(Projetos privados sob NDA)*
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
