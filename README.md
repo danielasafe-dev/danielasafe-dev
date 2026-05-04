@@ -46,14 +46,13 @@ Tenho experiência com:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Perfil em destaque
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielasafe-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielasafe-dev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banco-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-ERP-blue?style=for-the-badge" />
 </p>
 
 ---
